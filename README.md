@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced web developer based in Zagreb, Croatia. I specialize in JavaScript, React.js, Next.js, and building high-performance web applications.
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
+![Banner](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
 
 ## About Me
 
