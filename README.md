@@ -1,6 +1,6 @@
-# Ahmed Aly - Web Developer
+# Ahmed El Karra - Web Developer
 
-Welcome to my GitHub profile! I'm Ahmed Aly, a passionate and experienced web developer based in Zagreb, Croatia. I specialize in JavaScript, React.js, Next.js, and building high-performance web applications.
+Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced web developer based in Zagreb, Croatia. I specialize in JavaScript, React.js, Next.js, and building high-performance web applications.
 
 ![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Ahmed Aly, a passionate and experienced web de
 
 - 🌍 **Location:** Zagreb, Croatia
 - 📧 **Contact:** [ahmedelkarra@gmail.com](mailto:ahmedelkarra@gmail.com)
-- 💼 **LinkedIn:** [Ahmed Aly](https://www.linkedin.com/in/ahmedaly)
+- 💼 **LinkedIn:** [Ahmed El Karra](https://www.linkedin.com/in/ahmedaly)
 - 🌐 **Personal Website:** [ahmed-el-karra.vercel.app](https://ahmed-el-karra.vercel.app)
 - 🧑‍💻 **GitHub:** [github.com/ahmedelkarra](https://github.com/ahmedelkarra)
 
@@ -83,4 +83,4 @@ Feel free to reach out to me for any collaborations or questions. I'm always exc
 
 ---
 
-**© 2024 Ahmed Aly. All rights reserved.**
+**© 2024 Ahmed El Karra. All rights reserved.**
