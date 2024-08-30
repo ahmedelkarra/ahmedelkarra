@@ -24,22 +24,22 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 ![React](https://img.shields.io/badge/React.js-85%25-blue?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-75%25-black?style=flat&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-70%25-blue?style=flat&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-70%25-blue?style=flat&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-60%25-green?style=flat&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-90%25-blue?style=flat&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-75%25-green?style=flat&logo=django&logoColor=white)
 
 ### 📋 Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-70%25-blue?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-75%25-blue?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-85%25-orange?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-80%25-blue?style=flat&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-90%25-blue?style=flat&logo=css3&logoColor=white)
 
 ### 💾 Databases and ORM
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-70%25-blue?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-60%25-blue?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-70%25-blue?style=flat&logo=sqlite&logoColor=white)
 
 ## Projects
 
