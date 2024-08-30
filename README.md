@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 
 - 🌍 **Location:** Zagreb, Croatia
 - 📧 **Contact:** [ahmedelkarra@gmail.com](mailto:ahmedelkarra@gmail.com)
-- 💼 **LinkedIn:** [Ahmed Aly](https://www.linkedin.com/in/ahmedaly)
-- 🌐 **Personal Website:** [ahmed-el-karra.vercel.app](https://ahmed-el-karra.vercel.app)
+- 💼 **LinkedIn:** [Ahmed El Karra](https://www.linkedin.com/in/ahmed-el-karra-ab4629249)
+- 🌐 **Personal Website:** [ahmed-el-karra.vercel.app](https://ahmed-el-karra-portfolio.vercel.app)
 - 🧑‍💻 **GitHub:** [github.com/ahmedelkarra](https://github.com/ahmedelkarra)
 
 ## Skills
