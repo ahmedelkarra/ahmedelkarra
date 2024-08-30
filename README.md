@@ -12,6 +12,10 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 - 🌐 **Personal Website:** [ahmed-el-karra.vercel.app](https://ahmed-el-karra.vercel.app)
 - 🧑‍💻 **GitHub:** [github.com/ahmedelkarra](https://github.com/ahmedelkarra)
 
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelkarra&layout=compact&theme=default)
+
 ## Skills
 
 ### 📚 Frameworks and Libraries
@@ -64,13 +68,6 @@ A full-stack to-do application utilizing the MERN stack (MongoDB, Express, React
 - ![React](https://img.shields.io/badge/-React.js-blue?style=flat&logo=react&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
 
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedelkarra&layout=compact&theme=default)
-
-## GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedelkarra&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=default)
 
 ## Achievements
 
