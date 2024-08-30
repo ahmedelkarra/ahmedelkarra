@@ -43,32 +43,30 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 
 ## Projects
 
-### [E-commerce TypeScript](https://github.com/username/e-commerce-typescript)
-A comprehensive e-commerce platform built with TypeScript, React, and Express, featuring advanced state management with Redux and seamless integration with MongoDB.
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React.js-blue?style=flat&logo=react&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-blue?style=flat&logo=express&logoColor=white)
+### [Book Store Next.js](https://github.com/ahmedelkarra/book-store-next-js)
+A modern and dynamic book store application built with Next.js. This project showcases server-side rendering for improved performance and a responsive design with Tailwind CSS.
+- ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwindcss&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
-### [Weather App Next.js](https://github.com/username/weather-app-next)
+### [Weather App Next.js](https://github.com/ahmedelkarra/weather-app-next-js)
 A modern weather forecasting application using Next.js for server-side rendering and improved performance. The app provides real-time weather updates and has a responsive UI built with Tailwind CSS.
 - ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?style=flat&logo=tailwindcss&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
-### [Expense Tracker Next.js](https://github.com/username/expense-tracker-nextjs)
+### [Expense Tracker Next.js](https://github.com/ahmedelkarra/ahmedelkarra-expense-tracker-nextjs)
 An expense tracking application built with Next.js and TypeScript. The app features advanced charting capabilities and real-time data updates.
 - ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 
-### [To-Do App MERN](https://github.com/username/to-do-app-mern)
+### [To-Do App MERN](https://github.com/ahmedelkarra/to-do-app-mern-stack)
 A full-stack to-do application utilizing the MERN stack (MongoDB, Express, React, Node.js). Features include user authentication, CRUD operations, and a clean, intuitive interface.
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/-Express.js-blue?style=flat&logo=express&logoColor=white)
 - ![React](https://img.shields.io/badge/-React.js-blue?style=flat&logo=react&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
-
 
 ## Achievements
 
