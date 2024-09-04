@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 - 💼 **LinkedIn:** [Ahmed El Karra](https://www.linkedin.com/in/ahmed-el-karra-ab4629249)
 - 🌐 **Personal Website:** [ahmed-el-karra.vercel.app](https://ahmed-el-karra-portfolio.vercel.app)
 - 🧑‍💻 **GitHub:** [github.com/ahmedelkarra](https://github.com/ahmedelkarra)
-- 📄 **CV:** [Download My CV](https://drive.google.com/file/d/1dFgQuwXPv0NYkszihCMhU75AFQiQ0ofT/view?usp=sharing)
+- 📄 **CV:** [Download My CV](https://drive.google.com/file/d/15fkaAmG7cp7tXaVazh02cy3Qh_Mq8v4G/view?usp=sharing)
 
 ## Most Used Languages
 
