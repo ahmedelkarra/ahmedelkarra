@@ -1,8 +1,9 @@
-# Ahmed El Karra - Web Developer
+# Ahmed El Karra - Full-Stack Web Developer
 
-Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced web developer based in Zagreb, Croatia. I specialize in JavaScript, React.js, Next.js, Angular, and building high-performance web applications.
+**Welcome to my GitHub profile!** I'm Ahmed El Karra, a skilled and dedicated full-stack web developer based in Zagreb, Croatia, specializing in modern web technologies. I'm passionate about designing and building interactive, high-performance applications that deliver exceptional user experiences. I work with **JavaScript**, **React.js**, **Next.js**, **Angular**, **Nest.js**, **GraphQL**, and **REST APIs** to create end-to-end solutions with a focus on efficiency and scalability.
 
-![Banner](https://user-images.githubusercontent.com/27279740/164895446-7bcdb5b4-06dd-4763-aa96-80e0fbdf4667.png)
+
+![Banner](https://www.oneclickitsolution.com/blog/wp-content/uploads/2021/11/MEAN-vs-MERN-Stack.webp)
 
 ## About Me
 
@@ -11,7 +12,7 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 - 💼 **LinkedIn:** [Ahmed El Karra](https://www.linkedin.com/in/ahmed-el-karra-ab4629249)
 - 🌐 **Personal Website:** [ahmed-el-karra.vercel.app](https://ahmed-el-karra-portfolio.vercel.app)
 - 🧑‍💻 **GitHub:** [github.com/ahmedelkarra](https://github.com/ahmedelkarra)
-- 📄 **CV:** [Download My CV](https://drive.google.com/file/d/15fkaAmG7cp7tXaVazh02cy3Qh_Mq8v4G/view?usp=sharing)
+- 📄 **CV:** [Download My CV](https://drive.google.com/file/d/1vuPmIl69m_cDHusuxoflRMbI7LFfvFvr/view)
 
 ## Most Used Languages
 
@@ -24,6 +25,7 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 ![React](https://img.shields.io/badge/React.js-85%25-blue?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-82%25-black?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-90%25-red?style=flat&logo=angular&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-75%25-red?style=flat&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-90%25-blue?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-90%25-blue?style=flat&logo=tailwindcss&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-75%25-green?style=flat&logo=django&logoColor=white)
@@ -45,6 +47,7 @@ Welcome to my GitHub profile! I'm Ahmed El Karra, a passionate and experienced w
 ### 📊 API & Data Management
 
 ![GraphQL](https://img.shields.io/badge/GraphQL-75%25-e10098?style=flat&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-80%25-green?style=flat&logo=api&logoColor=white)
 
 ## Projects
 
