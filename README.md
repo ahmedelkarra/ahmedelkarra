@@ -22,13 +22,13 @@
 
 ### 📚 Frameworks and Libraries
 
-![React](https://img.shields.io/badge/React.js-85%25-blue?style=flat&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React.js-90%25-blue?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-82%25-black?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-90%25-red?style=flat&logo=angular&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-75%25-red?style=flat&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-90%25-blue?style=flat&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-80%25-red?style=flat&logo=angular&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-85%25-red?style=flat&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-95%25-blue?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-90%25-blue?style=flat&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-75%25-green?style=flat&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-80%25-green?style=flat&logo=django&logoColor=white)
 
 ### 📋 Programming Languages
 
@@ -41,13 +41,13 @@
 ### 💾 Databases and ORM
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-80%25-green?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-70%25-blue?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-70%25-blue?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-75%25-blue?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-75%25-blue?style=flat&logo=sqlite&logoColor=white)
 
 ### 📊 API & Data Management
 
-![GraphQL](https://img.shields.io/badge/GraphQL-75%25-e10098?style=flat&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-80%25-green?style=flat&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-82%25-e10098?style=flat&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-87%25-green?style=flat&logo=api&logoColor=white)
 
 ## Projects
 
